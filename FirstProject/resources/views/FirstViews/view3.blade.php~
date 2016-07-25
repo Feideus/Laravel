@@ -1,0 +1,11 @@
+@extends('Master')
+
+@section('NewText')
+<div style=" border : 2px solid black">
+  <p style="color: grey;">Author : Feideus</p>
+  <p style="color: pink;">Email : erwan.ulrich@gmail.com</p>
+  <p> Friend me on my 
+    <a href="https://www.facebook.com/mrwan.ulrich" style="text-decoration: none;">Facebook Page</a>
+  </p>
+
+</div>
