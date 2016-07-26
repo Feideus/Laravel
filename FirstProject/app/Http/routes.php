@@ -22,3 +22,5 @@ Route::get('DifferentController/TryOut', 'NewController@TryOut');
 Route::get('DifferentController/Contact', 'NewController@Contact');
 
 Route::get('DifferentController/Datas', 'NewController@Datas');
+
+Route::get('descriptions', 'DescriptionController@index');

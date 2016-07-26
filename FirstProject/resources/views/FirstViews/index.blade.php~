@@ -1,0 +1,5 @@
+@extends('Master')
+
+@section('Newtext')
+
+<p>coucou</p>
