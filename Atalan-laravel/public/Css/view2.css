@@ -1,0 +1,19 @@
+
+/*tags*/
+nav{position: fixed;}
+table{border: 1px solid black; position:relative; left: 20%;}
+
+
+
+/*classes*/
+.tdtitles{border: 1px solid grey; padding : 5px; margin: 5px; background-color: #F5F5DC;}
+.boutonmodif{background-color:#C4F4FD;}
+.boutondelete{background-color:#F799A7;}
+.trgrid{border: 1px solid grey; padding: 5px;}
+.tdgrid{border: 1px solid grey; padding : 5px; margin: 5px;}
+
+/*IDs*/
+#addUserButton{margin: 5px;background-color:#C4FDD4;}
+#modiftd, #deletetd{background-color: white;}
+#firstTr{border: 1px solid #F5F5DC; padding: 5px;}
+#footer{ position: fixed; top:90%; left:65%;}
